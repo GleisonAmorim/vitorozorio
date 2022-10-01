@@ -1,5 +1,5 @@
 
-<h1 align="center" style="color:red; font-weight:bold;">💡olá, sou um estudante de programação </h1>
+<h1 align="center" style="color:red; font-weight:bold;">olá mundo, sou um estudante de programação 💡 </h1>
 <section align="center">
 
 <img src="https://komarev.com/ghpvc/?username=vitorozorio&label=Visitas&color=0e75b6&style=flat" alt="vitor"/>
