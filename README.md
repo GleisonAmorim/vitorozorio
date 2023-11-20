@@ -42,3 +42,22 @@
  <a href="https://www.linkedin.com/in/vitor-manoel-bas%C3%ADlio-oz%C3%B3rio/">
     <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
+</br>
+</br>
+
+
+
+### Meus status do GitHub: 
+
+<div style="margin: 0 auto; width: 80%;">
+  <div style="float:left; width: 50%;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=vitorozorio&show_icons=true&theme=radical" alt="Anurag's GitHub stats" width="400" height="200">
+    </a>
+  </div>
+  <div style="float:left; width: 50%;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorozorio&layout=compact&theme=radical" alt="Top Langs" width="305" height="200">
+    </a>
+  </div>
+</div>
